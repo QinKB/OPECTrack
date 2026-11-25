@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+/datasets/
+/data/infos/
+/data/split_datas/v2x-sim-split-*.json
+/checkpoints/
+/work_dirs/
+/test/
+/.dist_test/
+/third_party/
